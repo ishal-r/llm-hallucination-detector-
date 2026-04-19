@@ -80,7 +80,7 @@ Run cells 1–11 in order. The notebook will:
 Run **cell 12 last**. It starts Flask on `http://localhost:5000`. Keep this cell running.
 
 ### 4. Open the web interface
-[Open Hallucination Detector](hallucination_detector.html)
+[Open Hallucination Detector](https://ishal-r.github.io/llm-hallucination_detector/hallucination_detector.html)
 
 Open `hallucination_detector.html` in your browser. The header shows **MODEL ONLINE** in green when connected. Paste any source document and AI-generated text, hit **INVOKE JUDGMENT**.
 
