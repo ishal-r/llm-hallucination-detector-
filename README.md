@@ -33,7 +33,7 @@ llm-hallucination-detector/
 └── README.md
 ```
 
-After running the notebook, these are generated locally (not committed to git):
+After running the notebook, these are generated locally (also committed to git but generate your own):
 
 ```
 models/hallucination_detector/    # your saved fine-tuned model weights
