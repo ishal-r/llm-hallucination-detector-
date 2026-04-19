@@ -1,0 +1,12 @@
+{
+  "id2label": {
+    "0": "SUPPORTED",
+    "1": "UNVERIFIABLE",
+    "2": "CONTRADICTED"
+  },
+  "label2id": {
+    "SUPPORTED": 0,
+    "UNVERIFIABLE": 1,
+    "CONTRADICTED": 2
+  }
+}
